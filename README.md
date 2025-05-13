@@ -22,3 +22,5 @@ Seguindo as recomendações do instrutor, realizei as seguintes ações:
 5 - Criei um copiloto baseado em descrição de IA;
 
 6 - Criei um copiloto em branco.
+
+## Realizado por: Ana Monteiro
